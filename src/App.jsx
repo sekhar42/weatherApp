@@ -48,7 +48,7 @@ export default function App() {
       </div>
 
     
-      {loading && <p>Loading data…</p>}
+      {loading && <p>Loading data...</p>}
 
      
       {weather && (
